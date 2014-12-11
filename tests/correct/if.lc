@@ -1,0 +1,2 @@
+(if 1 (stringprint "success\n") (stringprint "fail\n"))
+(if 0 (stringprint "fail\n") (stringprint "success\n"))

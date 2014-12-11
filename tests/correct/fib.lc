@@ -1,0 +1,5 @@
+(function (fib n) 
+	  (if (and n (- n 1)) 
+	      (+ (fib (- n 1)) (fib (- n 2)))
+              n))
+(intprint (fib 5))

@@ -1,0 +1,4 @@
+(assign hi "hi")
+(function (hi hi) (stringprint hi))
+(function (main) (hi hi))
+(main)

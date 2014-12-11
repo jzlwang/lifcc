@@ -1,0 +1,5 @@
+(assign x 5)
+(intprint x)
+(assign y (assign x (+ x 1)))
+(intprint x)
+(intprint y)

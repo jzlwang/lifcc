@@ -1,0 +1,14 @@
+"Another test case stolen from piazza."
+(function (rec val)
+         (sequence
+              (assign tmp (struct val))
+              (if (arrow tmp 0)
+                  (sequence
+                       (intprint (arrow tmp 0))
+                       (rec (- (arrow tmp 0) 1))
+                  )
+                  0
+              )
+         )
+)
+(rec 5)

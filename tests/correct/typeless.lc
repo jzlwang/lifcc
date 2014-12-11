@@ -1,0 +1,6 @@
+(assign x 0)
+(intprint x)
+(assign x (struct "hi" 0 8))
+(stringprint (arrow x (arrow x 1)))
+(assign x "bye")
+(stringprint x)

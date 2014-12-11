@@ -1,0 +1,3 @@
+(intprint (readint))
+(stringprint "\n")
+(intprint (readint))

@@ -1,0 +1,8 @@
+(assign x 0)
+(function (foo X y) (sequence (assign x 5) (assign y 7)))
+(assign y 1)
+(intprint x)
+(intprint y)
+(foo "hi" "there")
+(intprint x)
+(intprint y)

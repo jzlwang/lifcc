@@ -1,0 +1,7 @@
+(assign foon 3)
+(assign nfoo 4)
+(function (foo n) (intprint n))
+(function (fo x on y) (intprint on))
+
+(foo 0)
+(fo 0 1 2)

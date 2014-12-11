@@ -1,0 +1,9 @@
+(intprint (and 0 0))
+(intprint (and 0 2))
+(intprint (and 3 0))
+(intprint (and 4 5))
+
+(intprint (or 0 0))
+(intprint (or 0 2))
+(intprint (or 3 0))
+(intprint (or 4 5))

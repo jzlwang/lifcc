@@ -1,0 +1,4 @@
+(intprint (+ 3 6))
+( intprint (- 3 6) )
+(intprint (/ 6   3))
+(intprint (* 3 6))

@@ -1,0 +1,8 @@
+(intprint (lt 0 0))
+(intprint (lt 0 2))
+(intprint (lt 3 0))
+(intprint (lt -4 1))
+
+(intprint (eq 0 None))
+(intprint (eq 7 58))
+(intprint (eq -1 -1))

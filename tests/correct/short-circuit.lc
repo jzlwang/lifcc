@@ -1,0 +1,6 @@
+(assign x "success")
+(and 0 (assign x "failure"))
+(or 1 (assign x "failure"))
+(or "hi" (assign x "failure"))
+
+(stringprint x)

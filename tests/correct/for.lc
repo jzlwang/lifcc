@@ -1,0 +1,2 @@
+(assign i 0)
+(for None (lt i 10) (assign i (+ i 1)) (intprint i))

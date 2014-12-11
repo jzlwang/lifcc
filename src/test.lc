@@ -1,0 +1,8 @@
+(+ (+ 4 5) (+ 2 3))
+(+ x y)
+(intprint (/ 3 4))
+(while (lt x 10) (* x 2))
+(function (hello x y) (* x x))
+(assign x 4)
+(struct 1 2 3 4 5)
+(if (eq 1 1) (* 5 4) 3)

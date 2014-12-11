@@ -1,0 +1,5 @@
+"A truly nasty example of scoping in LIFC."
+"Credit for it goes to Ulysse Manceron."
+(assign mycode 21)
+(function (mycode mycode) (intprint mycode))
+(mycode (* mycode 2))

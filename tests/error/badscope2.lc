@@ -1,0 +1,3 @@
+(function (f x) (+ x 1))
+(assign y (f 2))
+(intprint x)

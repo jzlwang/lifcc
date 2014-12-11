@@ -1,0 +1,4 @@
+(function (foo x)
+    (sequence
+        (if 1 (assign y 0) 0)
+        (intprint x)))

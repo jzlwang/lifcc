@@ -1,0 +1,1 @@
+(assign y (+ (function (foo x) (+ x 1)) 2))
